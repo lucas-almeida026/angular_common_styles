@@ -41,16 +41,16 @@ $gray3: #666;
   border-radius: 50%;
 }
 
-@mixin flexRow($justify, $align) {
+@mixin flexRow($horizontal, $vertical) {
   display: flex;
   flex-direction: row;
-  justify-content: $justify;
-  align-items: $align;
+  justify-content: $horizontal;
+  align-items: $vertical;
 }
 
-@mixin flexColumn($justify, $align) {
+@mixin flexColumn($horizontal, $vertical) {
   display: flex;
   flex-direction: column;
-  justify-content: $align;
-  align-items: $justify;
+  justify-content: $vertical;
+  align-items: $horizontal;
 }
