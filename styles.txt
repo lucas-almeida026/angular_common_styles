@@ -21,14 +21,14 @@ a, a:visited, a:hover, a:active {
 
 ol, ul { list-style: none;}
 
-$st-color: #de4721;
-$nd-color: #1ea4c9;
-$rd-color: #7921de;
+$st-color: #ffffff;
+$nd-color: #ffffff;
+$rd-color: #ffffff;
 
 $light: #fdfdfd;
-$dark: #2d2b2c;
+$dark: #2d2b2b;
 $white: #f0f0f0;
-$black: #131414;
+$black: #141414;
 $gray: #c4c4c4;
 $gray2: #999;
 $gray3: #666;
