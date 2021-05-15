@@ -25,7 +25,7 @@ $st-color: #ffffff;
 $nd-color: #ffffff;
 $rd-color: #ffffff;
 
-$light: #fdfdfd;
+$light: #f9f9f9;
 $dark: #2d2b2b;
 $white: #f0f0f0;
 $black: #141414;
